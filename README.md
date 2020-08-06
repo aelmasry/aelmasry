@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I'm Ali 👋🏼👨🏻‍💻 </h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/alielsayedsalem"><img src="https://img.shields.io/badge/-alielsayedsalem-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/alielmasry"><img src="https://img.shields.io/badge/-@alielmasry-00acee?style=flat-square&logo=Twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/ali.elmasery"><img src="https://img.shields.io/badge/-ali.elmasry-E4415F?style=flat-square&logo=instagram&logoColor=white"/></a>
-    <a href="https://alisalem.me"><img src="https://img.shields.io/badge/-alisalem.me-071a2c?style=flat-square&logo=wordpress&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/alielsayedsalem" target="_blank"><img src="https://img.shields.io/badge/-alielsayedsalem-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/alielmasry" target="_blank"><img src="https://img.shields.io/badge/-@alielmasry-00acee?style=flat-square&logo=Twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/ali.elmasery" target="_blank"><img src="https://img.shields.io/badge/-ali.elmasry-E4415F?style=flat-square&logo=instagram&logoColor=white"/></a>
+    <a href="https://alisalem.me" target="_blank"><img src="https://img.shields.io/badge/-alisalem.me-071a2c?style=flat-square&logo=wordpress&logoColor=white"/></a>
   </p>
 
 I am a software engineer passionate since 2006, Have been involved in various projects with various technologies. <br />
