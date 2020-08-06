@@ -6,7 +6,7 @@
     <a href="https://alisalem.me"><img src="https://img.shields.io/badge/-alisalem.me-000000?style=flat&logo=react&logoColor=white"/></a>
   </p>
 
-I am a software engineer passionate since 2006, Have been involved in various projects with various technologies.
+I am a software engineer passionate since 2006, Have been involved in various projects with various technologies. <br />
 And Believe it or not, I love to code. I find it enjoyable. I love building solutions that can be extended with only a few keystrokes, I like looking back at old code and refactoring away the nasty bits in order to transform into something great.
 
 ##### Tech Stack
