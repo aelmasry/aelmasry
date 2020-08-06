@@ -31,7 +31,7 @@ And Believe it or not, I love to code. I find it enjoyable. I love building solu
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![JIRA](http://img.shields.io/badge/-jira-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![JIRA](http://img.shields.io/badge/-jira-007ACC?style=flat-square&logo=jira&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=linux&logoColor=FCC624)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
