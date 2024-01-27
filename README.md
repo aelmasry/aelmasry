@@ -12,6 +12,7 @@ And Believe it or not, I love to code. I find it enjoyable. I love building solu
 ##### Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-071a2c?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-071a2c?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-071a2c?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-071a2c?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-071a2c?style=flat-square&logo=sql)
 ![Docker](https://img.shields.io/badge/-Docker-071a2c?style=flat-square&logo=docker)
