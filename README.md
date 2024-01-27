@@ -24,7 +24,7 @@ I relish the opportunity to transform ideas into exceptional software.
 ![NGINX](http://img.shields.io/badge/-NGINX-071a2c?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Apache](http://img.shields.io/badge/-apache-071a2c?style=flat-square&logo=apache&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-071a2c?style=flat-square&logo=Node.js)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-071a2c?style=flat-square&logo=express.js)
+![ExpressJS](https://img.shields.io/badge/-Express-071a2c?style=flat-square&logo=express)
 ![VueJS](https://img.shields.io/badge/-VueJS-071a2c?style=flat-square&logo=vue.js)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-071a2c?style=flat-square&logo=angular)
 
