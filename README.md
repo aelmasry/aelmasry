@@ -6,8 +6,8 @@
     <a href="https://alisalem.me" target="_blank"><img src="https://img.shields.io/badge/-alisalem.me-071a2c?style=flat-square&logo=wordpress&logoColor=white"/></a>
   </p>
 
-I am a software engineer passionate since 2006, Have been involved in various projects with various technologies. <br />
-And Believe it or not, I love to code. I find it enjoyable. I love building solutions that can be extended with only a few keystrokes, I like looking back at old code and refactoring away the nasty bits in order to transform into something great.
+I am a seasoned software engineer with over 15 years of passion and expertise in the field, I Have been involved in various projects with various technologies. <br />
+Throughout my career, I have been deeply involved in numerous projects spanning a wide array of technologies. Coding isn't just a job for me—it's my passion. I derive immense satisfaction from crafting solutions that are both elegant and efficient. Whether it's extending functionality with a few keystrokes or refining existing code through meticulous refactoring, I relish the opportunity to transform ideas into exceptional software..
 
 ##### Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-071a2c?style=flat-square&logo=php)
@@ -19,6 +19,7 @@ And Believe it or not, I love to code. I find it enjoyable. I love building solu
 ![NGINX](http://img.shields.io/badge/-NGINX-071a2c?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Apache](http://img.shields.io/badge/-apache-071a2c?style=flat-square&logo=apache&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-071a2c?style=flat-square&logo=Node.js)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-071a2c?style=flat-square&logo=express.js)
 ![VueJS](https://img.shields.io/badge/-VueJS-071a2c?style=flat-square&logo=vue.js)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-071a2c?style=flat-square&logo=angular)
 
