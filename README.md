@@ -22,7 +22,7 @@ I relish the opportunity to transform ideas into exceptional software.
 ![SQL](https://img.shields.io/badge/-SQL-071a2c?style=flat-square&logo=sql)
 ![Docker](https://img.shields.io/badge/-Docker-071a2c?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-071a2c?style=flat-square&logo=nginx&logoColor=ffffff)
-![Apache](http://img.shields.io/badge/-apache-071a2c?style=flat-square&logo=apache&logoColor=ffffff)
+![Apache](http://img.shields.io/badge/-apache-071a2c?style=flat-square&logo=Apache&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-071a2c?style=flat-square&logo=Node.js)
 ![ExpressJS](https://img.shields.io/badge/-Express-071a2c?style=flat-square&logo=express)
 ![VueJS](https://img.shields.io/badge/-VueJS-071a2c?style=flat-square&logo=vue.js)
@@ -34,6 +34,8 @@ I relish the opportunity to transform ideas into exceptional software.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-071a2c?style=flat-square&logo=mongodb)
 
 #### Others
+![WordPress](https://img.shields.io/badge/-WordPress-%23F05032?style=flat-square&logo=WordPress&logoColor=%23ffffff)
+![Magento](https://img.shields.io/badge/-Magento-%23F05032?style=flat-square&logo=Magento&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
