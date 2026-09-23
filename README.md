@@ -1,9 +1,8 @@
-<h1 align="center"> Hi, I'm Ali 👋🏼👨🏻‍💻 </h1>
+<h1 align="center">Ali Salem</h1>
+<h3 align="center">Software Solutions Architect | Applied AI & Automation</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/alielsayedsalem" target="_blank"><img src="https://img.shields.io/badge/-alielsayedsalem-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/alielmasry" target="_blank"><img src="https://img.shields.io/badge/-@alielmasry-00acee?style=flat-square&logo=Twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/ali.elmasery" target="_blank"><img src="https://img.shields.io/badge/-ali.elmasry-E4415F?style=flat-square&logo=instagram&logoColor=white"/></a>
-    <a href="https://alisalem.me" target="_blank"><img src="https://img.shields.io/badge/-alisalem.me-071a2c?style=flat-square&logo=wordpress&logoColor=white"/></a>
+    <a href="https://alisalem.me" target="_blank"><img src="https://img.shields.io/badge/-alisalem.me-071a2c?style=flat-square"/></a>
   </p>
 
 
@@ -13,11 +12,14 @@ I’m currently at Seddiqi Holding in Dubai, where I work on enterprise retail s
 
 I work primarily in Python and TypeScript, and at a high level with Go and Java. I also maintain and modernize large PHP platforms, which is where much of my earlier production work sits. I enjoy designing system architectures, building APIs, integrating different platforms, and improving how software is delivered through CI/CD, observability, and automation. I like solving problems that make systems easier to operate and easier for other engineers to maintain.
 
-Before Seddiqi: Technical Lead at TechieMatter, led two teams at Serv5 (bugs down ~40%), built Lamha's APIs, and worked on Resalty.net at 1M+ SMS/day across MENA. 
+Before Seddiqi: Technical Lead at TechieMatter, led two teams at Serv5 (bugs down ~40%), built Lamha's APIs, and worked on Resalty.net at 1M+ SMS/day across MENA.
 
-I designed software architectures, led engineering teams, built developer platforms, developed large-scale APIs, and worked on messaging systems processing more than one million SMS messages per day across the MENA region.
+##### Selected work
+- [local-rag-ollama](https://github.com/aelmasry/local-rag-ollama) — self-hosted RAG pipeline: ingest, chunk, embed, retrieve, and answer locally with Ollama, FAISS, and Docker
+- [NestAgent](https://github.com/aelmasry/NestAgent) — Python agent harness built without LangChain or LangGraph, to understand orchestration from first principles
+- [TaskMind](https://github.com/aelmasry/TaskMind) — multi-provider AI agent application in TypeScript
 
-Outside of work, I enjoy experimenting with AI and automation. I build side projects around RAG, LLMs, MCP, and developer tooling, and occasionally share what I learn through technical posts, demos, and conference notes. For me, the interesting part of AI is finding practical ways to solve real engineering problems.
+I write up the architecture decisions behind this work as decision records: when a local LLM is required instead of an API, when GraphRAG earns its complexity over plain RAG, and when Kubernetes is over-engineering. For me, the interesting part of AI is the judgment calls, not the frameworks.
 
 If you're interested in software architecture, backend engineering, engineering leadership, or practical AI, I'd be happy to connect.
 
