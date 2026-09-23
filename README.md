@@ -11,7 +11,7 @@ I’m a Solutions Architect and Senior Software Engineer with 18+ years of exper
 
 I’m currently at Seddiqi Holding in Dubai, where I work on enterprise retail systems used across the GCC. I own four projects covering a mix of backend development, legacy POS modernization, mobile integrations, and production operations. Alongside my day-to-day work, I build internal AI and automation tools, including MCP servers, and spend time exploring RAG and LLM-based applications through side projects.
 
-Most of my career has been focused on backend engineering. I enjoy designing system architectures, building APIs, integrating different platforms, and improving how software is delivered through CI/CD, observability, and automation. I like solving problems that make systems easier to operate and easier for other engineers to maintain.
+Most of my career has been focused on backend engineering in PHP, Python, and Go. I enjoy designing system architectures, building APIs, integrating different platforms, and improving how software is delivered through CI/CD, observability, and automation. I like solving problems that make systems easier to operate and easier for other engineers to maintain.
 
 Before Seddiqi: Technical Lead at TechieMatter, led two teams at Serv5 (bugs down ~40%), built Lamha's APIs, and worked on Resalty.net at 1M+ SMS/day across MENA. 
 
@@ -27,12 +27,16 @@ If you're interested in software architecture, backend engineering, engineering 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-071a2c?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-071a2c?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-071a2c?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/-Go-071a2c?style=flat-square&logo=go)
+![Bash](https://img.shields.io/badge/-Bash-071a2c?style=flat-square&logo=gnubash&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-071a2c?style=flat-square&logo=sql)
 ![Docker](https://img.shields.io/badge/-Docker-071a2c?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-071a2c?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Apache](http://img.shields.io/badge/-apache-071a2c?style=flat-square&logo=Apache&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-071a2c?style=flat-square&logo=Node.js)
 ![ExpressJS](https://img.shields.io/badge/-Express-071a2c?style=flat-square&logo=express)
+![Laravel](https://img.shields.io/badge/-Laravel-071a2c?style=flat-square&logo=laravel)
+![Symfony](https://img.shields.io/badge/-Symfony-071a2c?style=flat-square&logo=symfony&logoColor=ffffff)
 ![VueJS](https://img.shields.io/badge/-VueJS-071a2c?style=flat-square&logo=vue.js)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-071a2c?style=flat-square&logo=angular)
 
@@ -40,15 +44,18 @@ If you're interested in software architecture, backend engineering, engineering 
 ![MySQL](https://img.shields.io/badge/-MySQL-071a2c?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-071a2c?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-071a2c?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-071a2c?style=flat-square&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-071a2c?style=flat-square&logo=elasticsearch)
 
 #### Others
-![WordPress](https://img.shields.io/badge/-WordPress-%23F05032?style=flat-square&logo=WordPress&logoColor=%23ffffff)
-![Magento](https://img.shields.io/badge/-Magento-%23F05032?style=flat-square&logo=Magento&logoColor=%23ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![JIRA](http://img.shields.io/badge/-jira-007ACC?style=flat-square&logo=jira&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=linux&logoColor=FCC624)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![WordPress](https://img.shields.io/badge/-WordPress-071a2c?style=flat-square&logo=wordpress&logoColor=ffffff)
+![Magento](https://img.shields.io/badge/-Magento-071a2c?style=flat-square&logo=magento&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-071a2c?style=flat-square&logo=git&logoColor=ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-071a2c?style=flat-square&logo=gitlab&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-071a2c?style=flat-square&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-071a2c?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![JIRA](https://img.shields.io/badge/-JIRA-071a2c?style=flat-square&logo=jira&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-AWS-071a2c?style=flat-square&logo=amazonaws&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-071a2c?style=flat-square&logo=linux&logoColor=FCC624)
+![Debian](https://img.shields.io/badge/-Debian-071a2c?style=flat-square&logo=debian&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-071a2c?style=flat-square&logo=windows&logoColor=ffffff)
